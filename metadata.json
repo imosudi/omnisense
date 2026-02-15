@@ -1,0 +1,7 @@
+{
+  "name": "OmniSense Research Assistant",
+  "description": "An intelligent AI-powered research tool that analyzes web content, extracts structured data, and provides visual understanding using Gemini Pro.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
